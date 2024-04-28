@@ -98,12 +98,7 @@ function displayResults(results) {
 
 function sendMessage() {
     const message = document.getElementById('chatInput').value;
-    fetchAIResponse(message).then(response => {
-        document.getElementById('chatOutput').innerText = 'AI says: ' + response;
-    }).catch(error => {
-        console.error('Error from AI:', error);
-        document.getElementById('chatOutput').innerText = 'Failed to fetch response.';
-    });
+    document.getElementById('chatOutput').innerText = 'Response to: ' + message;
 }
 
 // Adjust padding when the window resizes
