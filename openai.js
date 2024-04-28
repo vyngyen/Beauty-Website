@@ -22,6 +22,10 @@ async function fetchAIResponse(message) {
             return "Cleansers are used to remove dirt, oil, and other unwanted debris. They are the first step in any skincare routine.";
         case message.includes('toner'):
             return "Toner removes any last traces of dirt, grime and impurities stuck in your pores after you wash your face.";
+        case message.includes('eco friendly'):
+            return "Eco-friendly packaging includes packaging that is easy to recycle and made from materials manufactured using minimal impact on energy consumption or natural resources. More often than not, eco-friendly packaging is made from recycled materials. It's commonly referred to as sustainable or green packaging too."
+        case message.includes('plastic'):
+            return " Using plastic packaging for makeup has its pros and cons when it comes to environmental impact. On the plus side, plastic is lightweight, durable, and protective, which means it can help keep products safe during transport, potentially reducing waste from damaged goods. However, the downsides are significant; plastic is a major pollutant, often ending up in landfills or oceans where it can take hundreds of years to decompose. It's also commonly made from non-renewable fossil fuels and its production contributes to greenhouse gas emissions. There is growing concern about the long-term sustainability of plastic use, which is pushing both consumers and producers to look for more eco-friendly alternatives."
         default:
             return "I'm sorry, I don't have information on that topic. Could you ask about something else?";
     }
