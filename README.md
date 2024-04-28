@@ -1,38 +1,37 @@
-# hackathon
-hackathon project w rebekah song pookie 
+## Inspiration
 
-## Introduction
-Hello! This is a project created by Vy Nguyen and Rebekah Song for UWB 2024 AI Hackathon event! This project includes the code in HTML, CSS, and Java Script for our website that we created. The track we decided on was business since Vy has some background in business as a business major at UWB. With limited coding knowledge, we decided to chose the little code track 
+As two female college students, we immediately recognized an area for improvement in the cosmetics industry. Through our experiences of budgeting and becoming more ethically aware during our time at UW Bothell, we've applied these principles to one of our most routine but cherished purchases—cosmetics. As we observed a growing trend among our generation to move away from overconsumption and prioritize sustainability, our inspiration for the project was sparked by the increasing concern over sustainability in the cosmetics industry. With increasing regulations across many industries regarding environmental issues and ethical practices, we recognized the need for a platform that educates consumers about sustainable choices in cosmetics and empowers them to make informed decisions.
 
-## Background / Purpose
-With the rise in consumerism and global warming, Rebekah Songs interest in sustainability and enviromental science made her wonder ways she could help the world. We thought of a product us and many others use which is make up and skincare. We noticed that a lot of popular makeup and skincare packaging is not sustainable and ecofriendly, compared to the product in Korea. We decided to make a small website where users can browse popular makeup products and see whether their product will be sustainable for the enviroment in the future. Users can also search for a product and chat with an AI bot to ask questions about the product and ask the pros/con to a certain packaging type and/or why a product is eco friendly or not. 
+## What it does
 
-## Business Track / Predicting Trends
-This website may allow users and businesses to check which brands have sustainable packaging. This allows for businesses to keep track and predict trends. We predict that as consumerism and overconsumption gets worse, consumers will lean toward brands and products with more ecofriendly and sustainable packaging. This encourages brands to be innovative in their packaging and create products that are competite, yet ecofriendly.
+Our project utilizes AI chatbots to engage consumers in conversations about sustainability and ethical practices in the cosmetics industry. The chatbots provide information about brands' sustainable initiatives, product sourcing, environmental policies, and regulatory compliance. Through interactive dialogue and educational content, the chatbots aim to raise awareness among consumers, particularly younger generations, and influence their purchasing decisions towards more sustainable options.
 
-## Design / How we built it
-We designed our website with a simple layout so its easy for the user to use. If you scroll down, you can browse popular products and also search up a brand or product. This makes it easy for the user to find their favorite products. We used HTML, CSS and JavaScript to build our website! We learned through YouTube tutorials and templates to create our website. Some challenges we ran into was how to implemant Open AI to our website and we ran into some designing problems. Despite all of that, we are very happy with our result! 
+We also implemented a search system powered by AI-driven data analytics, simplifying the process of accessing sustainability information for makeup products. Our AI technology categorizes the sustainability of each product's packaging, considering factors like recyclability and eco-friendliness. Through this system, users can easily explore the environmental impact of various cosmetics, including details on sourcing, manufacturing practices, and packaging materials. By offering an intuitive platform for consumers to make informed choices, we aim to revolutionize how sustainability data is accessed and utilized in the cosmetics industry.
 
-## Cybersecurity
-Considering the increasing importance of data privacy and security, we have integrated best practices to safeguard user information. While our current version focuses on basic functionality, future iterations will implement robust cybersecurity measures to protect against potential threats, ensuring a secure user experience.
 
-## Social Impact
-Our platform aims to raise awareness about the environmental impact of consumer choices. By highlighting eco-friendly products, we contribute to a greener planet and encourage consumers to make informed decisions. This aligns with global efforts to promote sustainability and reduce the carbon footprint of the beauty industry.
+## How we built it
 
-## Feasibility
-The project is feasible with current web technologies and can be scaled with additional features such as real-time data analytics, a larger database of products, and integration with e-commerce platforms. Future versions could include user accounts, personalized recommendations, and a community forum for sharing eco-friendly beauty tips.
+We built the project using a combination of JavaScript (JS), Cascading Style Sheets (CSS), and Hypertext Markup Language (HTML) to create the website interface. The frontend development involved designing and coding the user interface elements, layout, and styling using HTML and CSS. JavaScript was used to implement interactive features and functionality, such as dynamic content loading and user interactions. Overall, our approach mostly involved frontend technologies to create a comprehensive and user-friendly platform for accessing sustainability information in the cosmetics industry.
 
-## Use of AI
-The AI chatbot on our website serves as a virtual assistant, guiding users through the product selection process and educating them on environmental friendliness. It uses natural language processing to interpret user inquiries and provide insightful responses. This interactive feature enhances the overall user experience and serves as an educational tool for consumers and businesses. We believe that with an more informed public, we would create a healthier world. 
+## Challenges we ran into
 
-## Conclusion
-We are excited about the potential of our hackathon project to make a positive impact on both the business world and the environment. By leveraging technology and AI, we believe that we can contribute to a future where beauty and sustainability go hand in hand. Thank you for exploring our project!
+As beginner-level students with a vision but limited experience, we encountered numerous technical challenges along the way. One significant challenge we faced was sourcing reliable data on cosmetic sustainability practices and regulatory requirements. Despite searching through various sources, we struggled to find the comprehensive and accurate information we needed. This prompted us to take matters into our own hands and personally track down data to create our own database. By doing so, we ensured the accuracy and relevance of the information provided by the chatbots, ultimately overcoming this obstacle through perseverance and resourcefulness. Another significant challenge we encountered was integrating an open API source into our code—a task we had never learned about, heard of, or imagined doing before. Securely incorporating complex AI algorithms while ensuring user-friendly interactions presented technical hurdles that were difficult to troubleshoot. 
 
-## How to Contribute
-We welcome contributions from the community! If you're interested in improving the project, please feel free to fork the repository, make your changes, and submit a pull request. You can also open an issue if you have suggestions or find a bug.
 
-## License and Credits
-All pictures used were found through Sephora
+## What we learned
 
-## Acknowledgements
-We'd like to thank the UWB 2024 AI Hackathon organizers for giving us the opportunity to develop this project and the mentors who provided invaluable guidance throughout the event! 
+One of our major challenges was attempting to integrate an open API source into our project, a task we had never encountered before. Despite our best efforts, we ultimately faced insurmountable difficulties in this integration process. As a result, we had to pivot our approach and explore alternative solutions to achieve our project goals. While we initially aimed to incorporate complex AI algorithms into our platform, we had to acknowledge the limitations of our current knowledge and skill level. Although we were unable to execute this aspect of the project as planned, we learned valuable lessons about the importance of flexibility and adaptability in the face of unexpected challenges. This experience reinforced the notion that setbacks are opportunities for growth and encouraged us to creatively explore different avenues to achieve our objectives.
+
+## Accomplishments that we're proud of
+
+One of our proudest accomplishments was our journey from attending the hackathon with no ambition or intention to develop an idea, to successfully conceiving and presenting a unique and creative concept. As beginner-level coders, the idea of implementing AI was foreign to us, but we were inspired by the presentations and guest speakers at the event. Despite our initial confusion, we embraced the challenge and worked tirelessly to make the best of our limited knowledge and skills. We are proud of our ability to adapt and learn quickly, turning our newfound understanding of AI into a feasible and needed project idea. This experience served as our "foot in the door" to combining creative concepts with technical skills, motivating us to further develop our abilities. While there is still much work to be done to fully utilize our technical skills, this experience reinforced our determination and resilience, demonstrating our capacity to learn and grow in a short amount of time without giving up.
+
+
+
+## What's next for Cosmetic Sustainability  
+
+Moving forward, the future of cosmetic sustainability holds promise for advancements in technical innovation, strategic business expansion, and meaningful consumer engagement. On the technical front, continuous improvement of AI integration and data analytics optimization is essential for advancing the capabilities of sustainability-focused chatbots. It's possible to refine natural language processing models and algorithms for data analysis, as that would enhance the accuracy and relevance of sustainability assessments for cosmetic products. Additionally, training the development of innovative tools and features within chatbot platforms will improve user experience and engagement. Through these technological advancements, we can leverage AI-driven insights to empower consumers with knowledge about sustainable product choices, inspiring informed decision-making and fostering a culture of conscious consumption.
+
+Businesses can leverage the application not only to enhance their understanding of the competitive landscape but also to promote their own sustainable products, gaining a competitive edge before sustainability laws are enforced by regulatory bodies such as the FDA. By utilizing the AI-driven data analytics capabilities of the platform, businesses can gain valuable insights into the sustainability practices of their competitors, including product sourcing, manufacturing processes, and packaging materials. Companies can use this knowledge to refine their own sustainability strategies, identify areas for improvement, and differentiate themselves in the market by highlighting their commitment to eco-friendly practices. 
+
+Moreover, businesses can capitalize on the platform's consumer engagement features to promote their sustainable products directly to environmentally conscious consumers, establishing themselves as leaders in sustainability and positioning themselves ahead of potential regulatory requirements. By proactively embracing sustainability and leveraging innovative technologies, companies can not only stay ahead of the regulatory curve but also strengthen their market position and brand reputation in an increasingly eco-conscious marketplace.
