@@ -10,8 +10,8 @@ With the rise in consumerism and global warming, Rebekah Songs interest in susta
 ## Business Track / Predicting Trends
 This website may allow users and businesses to check which brands have sustainable packaging. This allows for businesses to keep track and predict trends. We predict that as consumerism and overconsumption gets worse, consumers will lean toward brands and products with more ecofriendly and sustainable packaging. This encourages brands to be innovative in their packaging and create products that are competite, yet ecofriendly.
 
-## Design
-We designed our website with a simple layout so its easy for the user to use. If you scroll down, you can browse popular products and also search up a brand or product. This makes it easy for the user to find their favorite products. 
+## Design / How we built it
+We designed our website with a simple layout so its easy for the user to use. If you scroll down, you can browse popular products and also search up a brand or product. This makes it easy for the user to find their favorite products. We used HTML, CSS and JavaScript to build our website! We learned through YouTube tutorials and templates to create our website. Some challenges we ran into was how to implemant Open AI to our website and we ran into some designing problems. Despite all of that, we are very happy with our result! 
 
 ## Cybersecurity
 Considering the increasing importance of data privacy and security, we have integrated best practices to safeguard user information. While our current version focuses on basic functionality, future iterations will implement robust cybersecurity measures to protect against potential threats, ensuring a secure user experience.
