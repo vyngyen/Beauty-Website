@@ -9,31 +9,31 @@
         "name": "Better Than Sex Mascara",
         "brand": "Too Faced",
         "ecoFriendly": false,
-        "image": "url-to-product-image.jpg"
+        "image": "https://www.sephora.com/productimages/sku/s1533439-main-zoom.jpg?imwidth=1224"
     },
     {
-        "name": "Rouge Volupté Shine Lipstick",
+        "name": "YSL Loveshine Lip Oil Stick",
         "brand": "Yves Saint Laurent",
-        "ecoFriendly": true,
-        "image": "url-to-product-image.jpg"
+        "ecoFriendly": false,
+        "image": "https://www.sephora.com/productimages/sku/s2751592-main-zoom.jpg?imwidth=1224"
     },
     {
-        "name": "Summer Fridays Lip Balm",
+        "name": "Lip Butter Balm for Hydration & Shine",
         "brand": "Summer Fridays",
-        "ecoFriendly": true,
-        "image": "url-to-product-image.jpg"
+        "ecoFriendly": false,
+        "image": "https://www.sephora.com/productimages/sku/s2652113-main-zoom.jpg?imwidth=1224"
     },
     {
         "name": "Major Headlines Double-Take Crème & Powder Blush Duo",
         "brand": "Patrick Ta",
-        "ecoFriendly": true,
-        "image": "url-to-product-image.jpg"
+        "ecoFriendly": false,
+        "image": "https://www.sephora.com/productimages/sku/s2742567-main-zoom.jpg?imwidth=1224"
     },
     {
         "name": "Balm Dotcom Lip Balm",
         "brand": "Glossier",
         "ecoFriendly": true,
-        "image": "url-to-product-image.jpg"
+        "image": "https://www.sephora.com/productimages/sku/s2649788-main-zoom.jpg?imwidth=1224"
     },
     {
         "name": "Honey Infused Hydrating Lip Oil",
@@ -98,7 +98,7 @@
 {
         "name": "Watermelon Glow Ultra-Fine Mist",
         "brand": "Glow Recipe",
-        "ecoFriendly": true,
+        "ecoFriendly": false,
         "image": "https://www.sephora.com/productimages/sku/s2207231-main-zoom.jpg?imwidth=612"
 },
 {
@@ -106,5 +106,112 @@
         "brand": "Glow Recipe",
         "ecoFriendly": true,
         "image": "https://www.sephora.com/productimages/sku/s2742203-main-zoom.jpg?imwidth=612"
+},
+{
+        "name": "Zero Waste Brow Balm",
+        "brand": "Elate Cosmetics",
+        "ecoFriendly": true,
+        "image": "https://earthhero.com/cdn/shop/products/Elate_Brow_Balm_Smoke_1_8b49eb01-3af3-4b15-9bf7-8cbeee28394f.jpg?v=1694112578"
+},
+{
+        "name": "Vegan Blush Stick",
+        "brand": "River Organics",
+        "ecoFriendly": true, 
+        "image": "https://naturalstateskin.com/cdn/shop/products/8d97eb71b1b581d19bbc007c92ccf9311dea7abcc1ebcfc4777b6108d764ba36.jpg?v=1699321162"
+},
+{
+        "name": "All-Natural Lip and Cheek Stain",
+        "brand": "Moon Milk",
+        "ecoFriendly": true,
+        "image":"https://dr9wvh6oz7mzp.cloudfront.net/i/d50dbdc7b2be99bb7635238f468aa667_ra,w380,h380_pa,w380,h380.jpg"    
+},
+{
+        "name": "Perfect Blend Eyeliner Pencil",
+        "brand": "COVERGIRL",
+        "ecoFriendly": true,    
+        "image": "https://target.scene7.com/is/image/Target/GUEST_f0945c00-4b48-45e8-9654-e6ec65ab8fd6?wid=800&hei=800&qlt=80&fmt=webp"
+},
+{
+        "name": "Black Cake Mascara",
+        "brand": "Bésame",
+        "ecoFriendly": true,
+        "image": "https://www.gosupps.com/media/catalog/product/7/1/719kj-CuqzL.jpg"
+},
+{
+        "name": "Dew Blush Blendable Liquid Blush",
+        "brand": "Saie",
+        "ecoFriendly": false, 
+        "image": "https://www.sephora.com/productimages/sku/s2742989-main-zoom.jpg?imwidth=630"   
+},
+{
+        "name": "Cookie Powder Highlighters",
+        "brand": "Benefit Cosmetics",
+        "ecoFriendly": false, 
+        "image": "https://www.sephora.com/productimages/sku/s2520468-main-zoom.jpg?imwidth=630"
+},
+{
+        "name": "Beauty Highlighter Wand",
+        "brand": "Charlotte Tilbury",
+        "ecoFriendly": true, 
+        "image": "https://www.sephora.com/productimages/sku/s2366524-main-zoom.jpg?imwidth=630"
+},
+{
+        "name": "Radiant Creamy Concealer",
+        "brand": "NARS",
+        "ecoFriendly": false,
+        "image": "https://www.sephora.com/productimages/sku/s2172310-main-zoom.jpg?imwidth=630" 
+},
+{
+        "name": "Bouncy & Firm Sleeping Mask",
+        "brand": "LANEIGE",
+        "ecoFriendly": true,
+        "image": "https://us.laneige.com/cdn/shop/files/HQ_LN_BF-SM_Product_2024_01.jpg?v=1709056468&width=520"  
+},
+{
+        "name": "Lip Sleeping Mask",
+        "brand": "LANEIGE",
+        "ecoFriendly": true,  
+        "image": "https://us.laneige.com/cdn/shop/files/PDPImage_1000x1000_LSM.jpg?v=1709058541&width=520"
+},
+{
+        "name": "Lip Glowy Balm",
+        "brand": "LANEIGE",
+        "ecoFriendly": true,     
+        "image": "https://us.laneige.com/cdn/shop/files/2_4_a868073f-eec2-4ad6-9f6e-0bdc24ebfb3c.jpg?v=1711454960&width=520"
+},
+{
+        "name": "Cream Skin Toner & Moisturizer",
+        "brand": "LANEIGE",
+        "ecoFriendly": true,  
+        "image": "https://us.laneige.com/cdn/shop/files/CS1.5ADPDP11000x1000copy-100.jpg?v=1710259210&width=520"   
+},
+{
+        "name": "Good Genes All-In-One AHA Lactic Acid Treatment",
+        "brand": "Sunday Riley",
+        "ecoFriendly": true,   
+        "image": "https://www.sephora.com/productimages/sku/s1887298-main-zoom.jpg?imwidth=630"
+},
+{
+        "name": "Ultralip High Shine Lipstick with Hyaluronic Acid",
+        "brand": "Glossier",
+        "ecoFriendly": false,
+        "image": "https://www.sephora.com/productimages/sku/s2636728-main-zoom.jpg?imwidth=630"     
+},
+{
+        "name": "ShineOn Lip Jelly Non-Sticky Gloss",
+        "brand": "Tower 28 Beauty",
+        "ecoFriendly": false,
+        "image": "https://www.sephora.com/productimages/sku/s2549970-main-zoom.jpg?imwidth=630"
+},
+{
+        "name": "Dream Lip Oil for Moisturizing Sheer Coverage",
+        "brand": "Summer Fridays",
+        "ecoFriendly": false, 
+        "image": "https://www.sephora.com/productimages/sku/s2744696-main-zoom.jpg?imwidth=630"
+},
+{
+        "name": "BeachPlease Lip + Cheek Cream Blush",
+        "brand": "Tower 28 Beauty",
+        "ecoFriendly": false, 
+        "image": "xhttps://www.sephora.com/productimages/sku/s2711646-main-zoom.jpg?imwidth=630"
 }
-]
