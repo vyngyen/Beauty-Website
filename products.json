@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Luminous Silk Foundation",
+        "brand": "Giorgio Armani",
+        "ecoFriendly": true,
+        "image": "https://www.giorgioarmanibeauty-usa.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-gab-master-catalog/default/dw86aefdb8/products/A041/Luminous%20Silk%20Foundation/GA_Luminous_Silk_Foundation_4.5_L425720_3360372075547_RVB.jpg"
+    },
+    {
+        "name": "Better Than Sex Mascara",
+        "brand": "Too Faced",
+        "ecoFriendly": false,
+        "image": "url-to-product-image.jpg"
+    },
+    {
+        "name": "Rouge Volupté Shine Lipstick",
+        "brand": "Yves Saint Laurent",
+        "ecoFriendly": true,
+        "image": "url-to-product-image.jpg"
+    },
+    {
+        "name": "Summer Fridays Lip Balm",
+        "brand": "Summer Fridays",
+        "ecoFriendly": true,
+        "image": "url-to-product-image.jpg"
+    },
+    {
+        "name": "Major Headlines Double-Take Crème & Powder Blush Duo",
+        "brand": "Patrick Ta",
+        "ecoFriendly": true,
+        "image": "url-to-product-image.jpg"
+    },
+    {
+        "name": "Balm Dotcom Lip Balm",
+        "brand": "Glossier",
+        "ecoFriendly": true,
+        "image": "url-to-product-image.jpg"
+    },
+    {
+        "name": "Honey Infused Hydrating Lip Oil",
+        "brand": "Gisou",
+        "ecoFriendly": true,
+        "image": "https://www.sephora.com/productimages/sku/s2683464-main-zoom.jpg?imwidth=612"
+},
+{
+        "name": "Cooling Water Jelly Tint Lip + Cheek Blush Stain",
+        "brand": "Milk Makeup",
+        "ecoFriendly": false,
+        "image": "https://www.sephora.com/productimages/sku/s2737005-main-zoom.jpg?imwidth=612"
+},
+{
+        "name": "Lip + Cheek Cream Blush Stick",
+        "brand": "Milk Makeup",
+        "ecoFriendly": false,
+        "image": "https://www.sephora.com/productimages/sku/s2448488-main-zoom.jpg?imwidth=612"
+},
+{
+        "name": "Cooling Water",
+        "brand": "Milk Makeup",
+        "ecoFriendly": false,
+        "image": "https://www.sephora.com/productimages/sku/s1782085-main-zoom.jpg?imwidth=612"
+},
+{
+        "name": "Sculpt Cream Contour Stick",
+        "brand": "Milk Makeup",
+        "ecoFriendly": false,
+        "image": "https://www.sephora.com/productimages/sku/s2639680-main-zoom.jpg?imwidth=612"
+},
+{
+        "name": "Multi-Stick Cream Blush + Lip Tint",
+        "brand": "ILIA",
+        "ecoFriendly": true,
+        "image": "https://www.sephora.com/productimages/sku/s2564367-main-zoom.jpg?imwidth=612"
+},
+{
+        "name": "Multi-Stick Cream Highlighter",
+        "brand": "ILIA",
+        "ecoFriendly": true,
+        "image": "https://www.sephora.com/productimages/sku/s1824564-main-zoom.jpg?imwidth=612"
+},
+{
+        "name": "Super Serum Skin Tint SPF 40 Skincare Foundation",
+        "brand": "ILIA",
+        "ecoFriendly": true,
+        "image": "https://www.sephora.com/productimages/sku/s2428746-main-zoom.jpg?imwidth=612"
+},
+{
+        "name": "Limitless Lash Lengthening Clean Mascara",
+        "brand": "ILIA",
+        "ecoFriendly": true,
+        "image": "https://www.sephora.com/productimages/sku/s2335198-main-zoom.jpg?imwidth=612"
+},
+{
+        "name": "The Base Face Milk Essence & Lightweight Moisturizer with Hyaluronic Acid",
+        "brand": "ILIA",
+        "ecoFriendly": true,
+        "image": "https://www.sephora.com/productimages/sku/s2739837-main-zoom.jpg?imwidth=612"
+},
+{
+        "name": "Watermelon Glow Ultra-Fine Mist",
+        "brand": "Glow Recipe",
+        "ecoFriendly": true,
+        "image": "https://www.sephora.com/productimages/sku/s2207231-main-zoom.jpg?imwidth=612"
+},
+{
+        "name": "Watermelon Pink Juice Oil-Free Refillable Moisturizer",
+        "brand": "Glow Recipe",
+        "ecoFriendly": true,
+        "image": "https://www.sephora.com/productimages/sku/s2742203-main-zoom.jpg?imwidth=612"
+}
+]

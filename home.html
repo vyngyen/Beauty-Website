@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Makeup Search</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Makeup Product Finder</h1>
+    <input type="text" id="searchInput" placeholder="Search for a makeup product...">
+    <button onclick="searchProducts()">Search</button>       
+  </header>
+
+  <div class="container">
+    <main>
+      <section class="intro content"> <!-- content class added here -->
+        <div class="text-content">
+          <h1>Find out whether your favorite makeup products are sustainable and ecofriendly!</h1>
+          <p>Current most popular products</p>
+          <!-- More content here -->
+        </div>
+        <div class="image-content">
+          <img src="https://i.pinimg.com/736x/20/9c/91/209c91a4ecaabd207ccd4499bd035647.jpg" alt="Popular Makeup Products">
+        </div>
+      </section>
+
+      <!-- Add a container for search results -->
+      <div id="results"></div>
+
+      <!-- Move About Us and Chat Bot sections outside of the footer -->
+      <section id="about-us">
+        <h1>About Us</h1>
+        <p>With the rise of consumerism, global warming and environmental concerns, our mission is to empower consumers to make beauty choices that are good for them and the planet. We believe in transparency, sustainability, and educating our customers about the products they use every day. We selected the most popular beauty products trending and examine their material composition such as [list specific materials]. We hope to inspire brands to reduce their environmental impact and support initiatives that promote green practices in the beauty industry. Join us in making a difference. Explore new products and use our chat bot to learn how to make your beauty routine more eco-friendly. Together, we can create a beautiful future.</p>
+      </section>
+      <div id="chat-bot">
+        <p>Chat with our AI:</p>
+        <textarea id="chatInput" placeholder="Ask about the pros and cons of a product"></textarea>
+        <button onclick="sendMessage()">Send</button>
+        <div id="chatOutput"></div>
+      </div>
+    </main>
+  </div>
+  
+  <script src="openai.js"></script>
+  <script src="script.js"></script>
+  </body>
+</html>

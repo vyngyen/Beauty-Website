@@ -1,0 +1,132 @@
+body, html {
+    font-family: Arial, 'Liberation Sans', 'Nimbus Sans L', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+}
+
+header {
+    color: #FB6F92;
+    background-color: #fff1f5;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+input[type="text"] {
+    padding: 8px;
+    width: 300px;
+    margin-right: 10px;
+}
+
+#results {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.product {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+  width: 200px;
+}
+
+.product img {
+  max-width: 100%;
+  height: auto;
+}
+
+#about-us, #chat-bot {
+  margin-top: 40px;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#about-us h1, #chat-bot h1 {
+  color: #FB6F92;
+}
+
+button {
+    padding: 8px 16px;
+    background-color: #FB6F92;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #e2afc7;
+}
+  .intro {
+    background-color: #ffe0f0; /* Light pink background, for example */
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .intro h1 {
+    color: #FB6F92;
+  }
+  
+  .gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  
+  /* Clearfix for .container to handle floated children */
+  .container::after {
+    content: "";
+    display: block;
+    clear: both;
+  }
+
+textarea {
+    width: 300px;
+    height: 60px;
+    margin-right: 10px;
+}
+.product {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+}
+
+.product img {
+    max-width: 100px; /* Control image size with CSS */
+}
+.container {
+    max-width: 1200px;
+    width: 100%; /* Ensure it spans the full width */
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box; /* Ensures padding does not affect the overall width */
+  }
+  
+.content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+.text-content, .image-content {
+  flex: 1; /* Both take equal space */
+}
+
+/* If you want the image to be smaller and the text to take up more space, you can adjust the flex values */
+.text-content {
+  flex: 3; /* Takes more space */
+}
+  
+  .image-content {
+    flex: 2;
+    text-align: right; /* Aligns the image to the right side of its container */
+  }
+  
+  .image-content img {
+    max-width: 100%; /* Ensures the image is responsive and fits its container */
+    height: auto; /* Keeps the image aspect ratio */
+  }
